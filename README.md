@@ -10,7 +10,6 @@ Conheça um pouco mais sobre meus projetos e descubra como estou desenvolvendo s
   <img align="center" alt="J.Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="J.Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
   
   ##
  
