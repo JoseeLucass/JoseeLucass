@@ -12,7 +12,7 @@ Conheça um pouco mais sobre meus projetos e descubra como estou desenvolvendo s
 </div>
   
   ##
- 
+
 <div>  
   <a href = "mailto:lucas.91486@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-lucas-bispo-dos-santos-671532238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
